@@ -1,0 +1,73 @@
+body{
+    background-color: lemonchiffon ;
+    color: rgb(0, 0, 0);
+    text-decoration: dashed;
+    font-style: italic;
+}
+ul{
+    font-size: 18px;
+    margin-top: 6px;
+    padding: 3px 40px; 
+    text-align: left;
+}
+li{
+    padding: 5px;
+}
+
+p{
+    font-size: 19px;
+}
+h1{
+    font-size: 45px;
+    background-color: transparent;
+
+}
+body{
+    text-align: center;
+}
+
+
+img{
+    width: 100%;
+    overflow: hidden;
+    margin: 10px 0 20px 0;
+}
+
+* button{
+    border-radius: 20px;
+    background-color: brown;
+    color: wheat;
+    font-size: 18px;
+}
+p{
+    position: absolute;
+    bottom: 0;
+}
+
+.divbordas{
+    width: 20%;
+    height: 50%;
+    border-radius: 20px;
+    border: 2px solid;
+    padding: 5px 13px;
+}
+
+img{
+    border-radius: 20px;
+}
+
+header{
+    width: 100%;
+    height: 10%;
+    position: fixed;
+    top: 0;
+    background-color: bisque;
+    left: 0;
+    border-radius: 10px;
+}
+.ancorah{
+    background-color: transparent;
+    padding: 10px;
+    
+}
+

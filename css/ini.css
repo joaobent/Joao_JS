@@ -1,0 +1,40 @@
+*{
+    background-color: lemonchiffon;
+}
+div{
+    margin: 5px;
+    padding: 3px;
+    font-size: 23px;
+    font-style:Rock Salt
+}
+
+a{
+    color: purple !important;
+    bottom: 0;
+    margin-bottom: 50px;
+    font-size: 25px;
+    text-decoration: none;
+    font-style: italic;
+}
+body{
+    text-align: center;
+}
+* button{
+    border-radius: 25px 15px;
+    background-color: brown;
+    color: wheat;
+    font-size: 18px;
+
+    
+}
+body{
+    background-image: url(../img/logo.jpg);
+    background-repeat: no-repeat;
+}
+
+img{
+    width: 400px;
+}
+  
+
+  

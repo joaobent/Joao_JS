@@ -1,4 +1,4 @@
-*{
+body{
     background-color: lemonchiffon;
 }
 div{
@@ -20,7 +20,7 @@ body{
     text-align: center;
 }
 * button{
-    border-radius: 25px 15px;
+    border-radius: 15px 15px;
     background-color: brown;
     color: wheat;
     font-size: 18px;
@@ -36,5 +36,22 @@ img{
     width: 400px;
 }
   
+footer{
+    margin: 1px 1px 1px 1px;
+    position: absolute;
+    width: 99.6%;
+    background-color: lightsalmon;
+    left: 0;
+}
+#conta{
+    font-weight: bold;
+    font-size: 2vh;
+    display: flex;
+    margin: 5px 5px 5px 5px;
+}
 
-  
+#div_ist{
+    display: flex;
+    justify-content: start;
+    margin: 5px 5px 5px 5px;
+}

@@ -1,18 +1,9 @@
-*{
+body{
     background-color:lemonchiffon ;
     color: rgb(0, 0, 0);
     text-decoration: dashed;
     font-style: italic;
 }
-a{
-    color: purple !important;
-    position: fixed;
-    bottom: 0;
-    margin-bottom: 30px;
-    font-size: 25px;
-    left: 47%;
-}
-
 
 
 #choco{
@@ -47,14 +38,31 @@ ul{
 }
 
 
-p{
-    position: absolute;
-    bottom:0;
-}
 .divbordas{
     width: min-content;
     font-size: 20px;
     border-radius: 20px;
     border: 2px solid;
     padding: 5px 33px;
+}
+
+header{
+    width: 100%;
+    height: 10%;
+    position: fixed;
+    top: 0;
+    background-color: bisque;
+    left: 0;
+    border-radius: 10px;
+}
+
+.ancorah{
+    background-color: transparent;
+    padding: 10px;
+    
+}
+
+main{
+    margin: 6% 0% 0% 0% ;
+    width: 70%;
 }

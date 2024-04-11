@@ -37,7 +37,7 @@ img{
 }
   
 footer{
-    margin: 1px 1px 1px 1px;
+    margin: -1px 1px 1px 1px;
     position: absolute;
     width: 99.6%;
     background-color: lightsalmon;

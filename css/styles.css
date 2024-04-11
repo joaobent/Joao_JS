@@ -2,7 +2,6 @@ body{
     background-color:lemonchiffon ;
     color: rgb(0, 0, 0);
     text-decoration: dashed;
-    font-style: italic;
 }
 
 
@@ -11,7 +10,8 @@ body{
     margin-bottom: 30px;
 }
 h1{
-    font-size: 40px;
+    font-size: 45px;
+    background-color: transparent;
 }
 
 img{
@@ -21,29 +21,36 @@ img{
     border-radius: 20px;
 }
 ul{
-    font-style: italic;
+
     margin: 10px 10px 20px 10px;
     padding: 3px 40px 30px;
     font-size: 18px ;
     text-align: left;
 
 }
+
+li{
+    padding: 1px;
+}
+
 * button{
     border-radius: 30px;
     background-color: brown;
     color: wheat;
     font-size: 18px;
     align-content: center;
-    width: 190px;
+    width: 180px;
 }
 
 
 .divbordas{
-    width: min-content;
+    width: 400px;
     font-size: 20px;
     border-radius: 20px;
     border: 2px solid;
     padding: 5px 33px;
+    background-color: beige;
+    margin: 25px 5px 5px 5px;
 }
 
 header{
@@ -65,4 +72,24 @@ header{
 main{
     margin: 6% 0% 0% 0% ;
     width: 70%;
+}
+.log{
+    margin: 0;
+    padding: 0;
+    margin-top: -14px;
+    width: 100px;
+}
+.img_bolo{
+    width: 400px;
+    height: 300px;
+}
+
+.titulo_receita{
+    text-align: center;
+    font-size: 24px;
+}
+
+.img_comida{
+    width: 400px;
+    height: 228px ;
 }

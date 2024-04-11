@@ -1,5 +1,6 @@
 body{
     background-color: lemonchiffon;
+    text-align: center;
 }
 div{
     margin: 5px;
@@ -8,40 +9,29 @@ div{
     font-style:Rock Salt
 }
 
-a{
-    color: purple !important;
-    bottom: 0;
-    margin-bottom: 50px;
-    font-size: 25px;
-    text-decoration: none;
-    font-style: italic;
-}
-body{
-    text-align: center;
-}
+
 * button{
     border-radius: 15px 15px;
     background-color: brown;
     color: wheat;
     font-size: 18px;
-
+    margin-bottom: 3px;
     
 }
-body{
-    background-image: url(../img/logo.jpg);
-    background-repeat: no-repeat;
-}
+
 
 img{
     width: 400px;
 }
   
 footer{
-    margin: -1px 1px 1px 1px;
+    margin: 0px 1px 1px 0px;
     position: absolute;
     width: 99.6%;
     background-color: lightsalmon;
     left: 0;
+    height: 122px;
+    
 }
 #conta{
     font-weight: bold;
@@ -64,3 +54,4 @@ footer{
     display: flex;
     justify-content: start;
 }
+

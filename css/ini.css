@@ -16,7 +16,6 @@ div{
     color: wheat;
     font-size: 18px;
     margin-bottom: 3px;
-    
 }
 
 
@@ -27,11 +26,11 @@ img{
 footer{
     margin: 0px 1px 1px 0px;
     position: absolute;
-    width: 99.6%;
+    width: 100%;
     background-color: lightsalmon;
     left: 0;
-    height: 122px;
-    
+    height: 104px;
+    border-radius: 5px;
 }
 #conta{
     font-weight: bold;
@@ -55,3 +54,6 @@ footer{
     justify-content: start;
 }
 
+.titulo{
+    font-size: 45px;
+}

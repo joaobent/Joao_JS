@@ -51,6 +51,7 @@ li{
     padding: 5px 33px;
     background-color: beige;
     margin: 25px 5px 5px 5px;
+    
 }
 
 header{
@@ -93,5 +94,9 @@ main{
     height: 228px ;
 }
 .titulo_pag{
-    margin: 0px 0px 0px 600px;
+    margin: -15px 0px 0px 600px;
+}
+
+.titulo_bolo{
+    margin: -15px 0px 0px 310px;
 }
